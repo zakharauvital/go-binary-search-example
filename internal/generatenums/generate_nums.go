@@ -1,4 +1,4 @@
-package generate_nums
+package generatenums
 
 func GenerateNums(n int) []int {
 	items := make([]int, 0, n)

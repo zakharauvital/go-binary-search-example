@@ -1,8 +1,8 @@
-package binary_search_test
+package binarysearch_test
 
 import (
-	search "go_binary_search_example/internal/binary_search"
-	generate "go_binary_search_example/internal/generate_nums"
+	search "go_binary_search_example/internal/binarysearch"
+	generate "go_binary_search_example/internal/generatenums"
 
 	"slices"
 	"testing"
